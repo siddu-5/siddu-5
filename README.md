@@ -12,10 +12,10 @@ This profile is where I'll be sharing my projects, experiments, and things I'm c
 * Git, GitHub, Jupyter Notebook
 ---
 ## A Bit About Me
-* 🎓 AIML student at CVR College of Engineering
-* 🏆 NCC 'A' Certificate Holder
-* 👨‍💼 College Captain
-* 🤖 Interested in AI, ML, and Generative AI
-* 🚀 Always learning and building new things
+*  AIML student at CVR College of Engineering
+*  NCC 'A' Certificate Holder
+*  College Captain
+*  Interested in AI, ML, and Generative AI
+*  Always learning and building new things
 ---
-📫 Reach me at: **[siddarthaarnakonda@gmail.com](mailto:siddarthaarnakonda@gmail.com)**
+ Reach me at: **[siddarthaarnakonda@gmail.com](mailto:siddarthaarnakonda@gmail.com)**
